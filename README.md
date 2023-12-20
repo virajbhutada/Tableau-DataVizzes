@@ -13,7 +13,7 @@ Welcome to the Tableau Dashboards repository, a meticulously curated collection 
 
 - **Continuous Expansion:** This repository is a living project, with plans for ongoing expansion. Expect the addition of new dashboards that delve into different aspects of data analytics and visualization.
 
-[My Tableau Profile and Vizzes](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
+[!My Tableau Profile and Vizzes][![Tableau](https://img.shields.io/badge/Tableau-virajbhutada-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
 
 ## Contributing and Usage:
 
