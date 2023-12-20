@@ -18,7 +18,6 @@ Welcome to the Tableau Dashboards repository, a meticulously curated collection 
 Explore my Tableau profile and visualizations on Tableau Public:
 
 [![Tableau](https://img.shields.io/badge/Tableau-virajbhutada-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
-
 # Contributing, Usage, and Issue Reporting
 
 Thank you for considering contributing to this repository and exploring the Tableau dashboards. Your involvement is highly valued, and your contributions help enhance the overall quality of this collection.
