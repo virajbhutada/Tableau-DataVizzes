@@ -20,7 +20,7 @@ Welcome to the Tableau Dashboards repository, a meticulously curated collection 
 
 - **Contributions Welcome:** Your contributions to enhance existing dashboards or propose new ideas are highly encouraged. Refer to the [contribution guidelines](CONTRIBUTING.md) for seamless collaboration.
 
-- **Usage Permissions:** The dashboards in this repository are open for exploration and utilization. Check the [MIT License]([LICENSE](https://github.com/virajbhutada/Tableau_Dashboards/blob/main/LICENSE)) for details on permissions and usage.
+- **Usage Permissions:** The dashboards in this repository are open for exploration and utilization. Check the [MIT License](https://github.com/virajbhutada/Tableau_Dashboards/blob/main/LICENSE) for details on permissions and usage.
 
 Feel free to navigate through the repository, explore the Tableau dashboards, and stay tuned for continuous updates and additions to this evolving collection.
 
