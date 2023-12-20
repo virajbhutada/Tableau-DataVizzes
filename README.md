@@ -13,14 +13,33 @@ Welcome to the Tableau Dashboards repository, a meticulously curated collection 
 
 - **Continuous Expansion:** This repository is a living project, with plans for ongoing expansion. Expect the addition of new dashboards that delve into different aspects of data analytics and visualization.
 
-[!My Tableau Profile and Vizzes][![Tableau](https://img.shields.io/badge/Tableau-virajbhutada-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
+## Check Out My Work
 
-## Contributing and Usage:
+Explore my Tableau profile and visualizations on Tableau Public:
 
-- **Contributions Welcome:** Your contributions to enhance existing dashboards or propose new ideas are highly encouraged. Refer to the [contribution guidelines](CONTRIBUTING.md) for seamless collaboration.
+[![Tableau](https://img.shields.io/badge/Tableau-virajbhutada-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
 
-- **Usage Permissions:** The dashboards in this repository are open for exploration and utilization. Check the [MIT License](https://github.com/virajbhutada/Tableau_Dashboards/blob/main/LICENSE) for details on permissions and usage.
+# Contributing, Usage, and Issue Reporting
 
-Feel free to navigate through the repository, explore the Tableau dashboards, and stay tuned for continuous updates and additions to this evolving collection.
+Thank you for considering contributing to this repository and exploring the Tableau dashboards. Your involvement is highly valued, and your contributions help enhance the overall quality of this collection.
+
+## Contributing
+
+- **Contributions Welcome:** We welcome your contributions to enhance existing dashboards or propose new ideas. Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for seamless collaboration.
+
+## Usage Permissions
+
+- **Open for Exploration:** The dashboards in this repository are open for exploration and utilization. Before usage, please review the [MIT License](https://github.com/virajbhutada/Tableau_Dashboards/blob/main/LICENSE) for details on permissions.
+
+## Report Issues
+
+If you encounter any issues or have suggestions, we encourage you to open an issue on the [Issue Tracker](https://github.com/virajbhutada/Tableau_Dashboards/issues). Your feedback is invaluable and contributes to the ongoing improvement of this project.
+
+## License
+
+By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE). Your cooperation is vital in ensuring a collaborative and open environment.
 
 ---
+
+I sincerely appreciate your contributions and look forward to making this project exceptional together!
+
