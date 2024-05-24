@@ -15,6 +15,8 @@ Welcome to the Tableau Dashboards repository, a meticulously curated collection 
 
 - **Continuous Expansion:** This repository is a living project, with plans for ongoing expansion. Expect the addition of new dashboards that delve into different aspects of data analytics and visualization.
 
+---
+
 ## Check Out My Work
 
 Explore my Tableau profile and visualizations on Tableau Public:
