@@ -44,5 +44,7 @@ By contributing to this project, you agree that your contributions will be licen
 
 ---
 
-I sincerely appreciate your contributions and look forward to making this project exceptional together!
+## Connect With Me 🌐
+
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
 
