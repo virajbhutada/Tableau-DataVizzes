@@ -1,7 +1,5 @@
 # Insights Atlas: Tableau Dashboard Catalog
 
-
-
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboards-blue)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/virajbhutada/Tableau_Dashboards/blob/main/LICENSE)
 
