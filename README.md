@@ -1,6 +1,6 @@
 # Insights Atlas: Tableau Dashboard Catalog
 
-[![Tableau](https://img.shields.io/badge/Tableau-Dashboards-blue)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-blue)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/virajbhutada/Tableau_Dashboards/blob/main/LICENSE)
 
 A meticulously curated collection of dynamic and insightful data visualizations. This repository is a centralized hub for various Tableau dashboards, each designed to provide unique perspectives and meaningful insights into diverse datasets.
