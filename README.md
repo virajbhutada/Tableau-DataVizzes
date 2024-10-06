@@ -5,6 +5,8 @@
 
 A meticulously curated collection of dynamic and insightful data visualizations. This repository is a centralized hub for various Tableau dashboards, each designed to provide unique perspectives and meaningful insights into diverse datasets.
 
+---
+
 ## Repository Highlights:
 
 - **Exploratory Data Visualization:** Engage with interactive and visually appealing data visualizations created using Tableau, offering an immersive exploration of datasets.
